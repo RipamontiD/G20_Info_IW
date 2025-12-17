@@ -1,2 +1,2 @@
 # G20_Info_IW
-cartella progetto del gruppo 20
+## Progetto Gestione app, pacchetti, autorizzazioni e risorse su grandi reti di computer / datacenter
